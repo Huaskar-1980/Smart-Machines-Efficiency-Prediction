@@ -61,8 +61,8 @@ Low efficiency
 bash
 Copy
 Edit
-git clone https://github.com/Kiran8053?tab=repositories.git
-cd "Kiran8053/Smart Machines Efficiency Prediction"
+git clone https://github.com/AmritPrakash3?tab=repositories.git
+cd "AmritPrakash3/Smart Machines Efficiency Prediction"
 
 2️⃣ Create & activate a virtual environment
 bash
